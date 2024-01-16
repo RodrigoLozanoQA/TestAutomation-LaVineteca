@@ -4,5 +4,5 @@ import org.openqa.selenium.By;
 
 public class AddCarrito1Page {
 
-    public static By AñadirCarrito1 = By.xpath("//*[contains(text(),'Kengan Ashura 10')]");
+    public static By AnadirCarrito1 = By.xpath("//*[contains(text(),'Dan Da Dan 07')]");
 }

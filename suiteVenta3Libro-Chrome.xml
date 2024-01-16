@@ -4,7 +4,7 @@
     <test name="All Test chrome of Flujo de ventas de libros de mas de un pedido">
         <parameter name="browser" value="chrome"/>
         <packages>
-            <package name="order3productos"/>
+            <package name="order3Productos"/>
         </packages>
     </test>
 </suite>

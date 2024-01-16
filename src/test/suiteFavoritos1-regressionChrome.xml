@@ -7,10 +7,4 @@
             <package name="orderFavoritos1Libro"/>
         </packages>
     </test>
-    <test name="All Test firefox of Flujo de verificacion de darle favorito a un libro">
-        <parameter name="browser" value="firefox"/>
-        <packages>
-            <package name="orderFavoritos1Libro"/>
-        </packages>
-    </test>
-</suite>
+ </suite>

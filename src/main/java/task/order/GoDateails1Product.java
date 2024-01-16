@@ -10,6 +10,6 @@ public class GoDateails1Product {
     private static final Logger log= LogManager.getLogger(GoDateails1Product.class);
      public static void goCarrito1(WebDriver webDriver){
          log.info("Click en el detalle del Producto");
-         Click.on(webDriver, AddCarrito1Page.AñadirCarrito1);
+         Click.on(webDriver, AddCarrito1Page.AnadirCarrito1);
     }
 }
